@@ -52,6 +52,8 @@ if(pin in users):
 
         elif choice == 5:
             print("Thank you for using the ATM. bye!")
+            break
+
             
 
         else:
